@@ -1,0 +1,26 @@
+1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+	Semantic HTML utilizes tags that are clearly identifiable by the browser and its developer.
+
+	Ex. <header> <article> <p>
+
+2. Name two big differences between display: block; and display: inline.
+
+	1. Display block elements take up entire rows of space while it is possible to display many inline elements in the same row.
+
+	2. Display block elements also respect top and bottom margin while display inline elements don't
+
+3. What are the 4 areas of the box model?
+
+	1. Margin
+	2. Border
+	3. Padding
+	4. Content
+
+4. While using flexbox, what axis does the following property work on: align-items: center?
+
+	Align-items works on the cross axis of the set flexbox.
+
+5. Explain why git is valuable to a team of developers.
+
+	Git allows multiple developers to work on the same project at the same time modifing different features. Git also allows for version control.
